@@ -1,0 +1,9 @@
+C:\Users\Antoine\Desktop\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\Antoine\Desktop\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+C:\Users\Antoine\Desktop\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+C:\Users\Antoine\Desktop\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\Antoine\Desktop\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Antoine\Desktop\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\Antoine\Desktop\Matrices\Matrices\obj\Debug\Matrices.pdb
+C:\Users\Antoine\Desktop\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
